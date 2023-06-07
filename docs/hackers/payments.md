@@ -41,13 +41,13 @@ Keep in mind that:
 * Bounties can't be split retroactively (i.e. after the bounty has already been awarded).
 * You can only add up to 10 collaborators per report.
 
-><i><b>Note:</b> Bounty splitting is only enabled for programs that use the [prepayment](/programs/billing.html) billing option.</i>
+><i><b>Note:</b> Bounty splitting is only enabled for programs that use the [prepayment](/organizations/billing.html) billing option.</i>
 
 #### Donating Bounties to Charity
 HackerOne enables you to donate your bounty directly to charity.
 
 If you want to donate a bounty:
-1. Sign in to your HackerOne account and [submit a support ticket](https://support.hackerone.com/hc/en-us/requests/new).
+1. Sign in to your HackerOne account and [submit a support ticket](https://support.hackerone.com).
 2. Mention the following in your request:
    * The name and website of the charity you want to donate to.
    * Whether or not you want to be named as the person donating or prefer to remain anonymous. Keep in mind that we can only attribute the donation to you if the charity allows us to give a name.
